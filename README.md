@@ -8,6 +8,8 @@ Hackathon was conducted on Kaggle.
 
 **Kaggle Link** : [https://www.kaggle.com/competitions/askreddit-troll-question-detection-challenge/leaderboard
 
+![Leader Board](https://github.com/architsangal/AskReddit-Troll-Question-Detection-Challenge/blob/main/Leadboard%20SS.jpg)
+
 **Team Name** : MaRVeL
 
 **Rank Obtained** :
